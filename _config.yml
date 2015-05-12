@@ -9,7 +9,7 @@ title:               Optional&lt;Void&gt;
 tagline:             It's idiocy
 url:                 http://eriklarko.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             http://eriklarko.github.io
 
 # Assets
 #
