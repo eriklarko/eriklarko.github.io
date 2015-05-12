@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Some name
-tagline:             Idiocy
+title:               Optional&lt;Void&gt;
+tagline:             It's idiocy
 url:                 http://eriklarko.github.io
 paginate:            1
 baseurl:             ""
