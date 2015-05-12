@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Optional&lt;Void&gt;
 tagline:             It's idiocy
 url:                 http://eriklarko.github.io
-paginate:            1
+paginate:            100
 baseurl:             http://eriklarko.github.io
 
 # Assets
